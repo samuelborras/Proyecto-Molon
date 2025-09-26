@@ -1,0 +1,19 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    text-align: center;
+    background: greenyellow;
+    padding: 1em;
+}
+
+h1{
+    color: blue;
+}
+
+p{
+    font-weight: bold;
+    padding: 1em;
+    margin: 1em auto;
+}
